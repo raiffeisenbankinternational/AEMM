@@ -77,5 +77,3 @@ Subsequent assessments are typically faster, it is also possible to skip discuss
 - Every single line in the sheet could be discussed for hours. This is not rocket science and high precision is not the goal.
 - The self assessment must be done with engineers. Don't include Product Owners or Engineering Managers. You want to have the engineers talking, not the POs (or Scrum Masters). POs tend to talk a lot :-D.
 - If agile coaches are working with the team, get in touch with them. There is always a lot of overlap!
-# AEMM
-The Agile Engineering Maturity Model
