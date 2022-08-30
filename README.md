@@ -21,25 +21,26 @@ Comparing and/or ranking teams is a meaningless exercise and besides this, will 
 Change is not happening linearly and there is no single path. 
 Team context, business needs and boundary conditions all need to be observed - and as always, the most important thing is to start with *something*, experiment, collect feedback, adapt and start all over!
 
-Improvement is always possible - considering this, it is clear that there is no end-state of an improvement journey. Even if a team scores itself top on all dimensions of the review it doesn't mean that it has achieved an optimal state of engineering capabilities. This state simply does not exist, instead it makes sense to aim for the most promising direction.
+Improvement is always possible - considering this, it is clear that there is no end-state of an improvement journey. Even if a team scores itself top on all dimensions of the review it doesn't mean that it has achieved an optimal state of engineering capabilities. This state simply does not exist.
 
 Conversations must be focused on capabilities and goals and not on maturity scores - if real change should happen.
 
 # How it is done in detail
-- The self assessment is done by the teams together with Engineering Coaches, who guide them through the questionnaire. 
-- Engineering Coaches are people with a longer hand-on experience in the software industry, have broader knowledge in the area of DevOps, CI/CD, Testing and Test Automation. Typically Engineering Coaches can help Product teams to improve their tools/knowledge and processes and can temporarily act as a team memeber in a product team.
+- The self assessment is done by the teams together with Engineering Coaches, who guide through the questionnaire. 
 - If it is the first iteration, Engineering Coaches explain also the context
   - What is the assessment all about?
   - How does it work?
   - What happens with the data? Discussing this explicitly is very important.
 
-- Coaches walk the team through the descriptions and for each topic, the team selects the description with the respective maturity buckets that fits to their ways of working best.
+- The questionnaire consists of a lot of topics relate to engineering practices.
+- For each topic, a set of descriptions is provided that are refelcting a certain level of maturity
+- The team selects the description that desribes their way of working best and thus puts itself into a maturity bucket for each topic 
 - Descriptions and the respective buckets are classified as **Crawl, Walk and Run**. A general guidance for the buckets is:
   - **Crawl** means: the team is using a structured process 
   - **Walk** means: the teams is familiar with modern software engineering practices and applies the practices in their daily work
   - **Run** means: the team is on top of their game and in addition they are also sharing their knowledge and experience and help the whole organization to improve
 - If even the **Crawl** bucket description doesn't reflect the team's way of working, a **-** is used.
-- Comments can be added by a coach for each topic if the team feels the necessity
+- Comments can be added by the coach for each topic if the team feels the necessity
 
 It is helpful if two coaches work with the team on the self-assessment as it is hard to facilitate the process and take notes at the same time! 
 Usually it is good, if 2 members from the product team participate in the self-assessment, one to cover DevOps and CI/CD and one for Testing and Test Automation. This is due to the fact that typically the detailed knowledge is spread among the team members and there is no single "expert".
@@ -82,4 +83,4 @@ Subsequent assessments are typically faster, it is also possible to skip discuss
 - Every single line in the sheet could be discussed for hours. This is not rocket science and high precision is not the goal and also not a benefit.
 - The self-assessment must be done with engineers. Don't include Product Owners or Engineering Managers during the actual assessment. You want to have the engineers talking, not the POs (or Scrum Masters) (or managers). POs tend to talk a lot :-D.
 - If agile coaches (for the setup of the agile process, meaning Scrum) are working with the team, get in touch with them. There is always a lot of overlap!
-- Be careful with assessments of teams with an immature agile set-up. First things first: Let the teams get their agile process up to speed and only then talk with them about agile engineering maturity.
+- Many engineering problems are related to architecture, organization, team structure and understanding of agility. Don't even try to fix everything!  
