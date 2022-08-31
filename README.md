@@ -27,20 +27,20 @@ Conversations must be focused on capabilities and goals and not on maturity scor
 
 # How it is done in detail
 - The self assessment is done by the teams together with Engineering Coaches, who guide through the questionnaire. 
-- If it is the first iteration, Engineering Coaches explain also the context
+- If it is the first iteration, Engineering Coaches explain also the context:
   - What is the assessment all about?
   - How does it work?
-  - What happens with the data? Discussing this explicitly is very important.
+  - What happens with the data? Discussing this explicitly is very important!
 
-- The questionnaire consists of a lot of topics relate to engineering practices.
-- For each topic, a set of descriptions is provided that are refelcting a certain level of maturity
-- The team selects the description that desribes their way of working best and thus puts itself into a maturity bucket for each topic 
+- The questionnaire consists of a lot of topics related to engineering practices.
+- For each topic, a set of descriptions - which reflect certain levels of maturity - is provided. 
+- The team selects the description, which describes best their way of working and thus puts itself into a maturity bucket for each topic. 
 - Descriptions and the respective buckets are classified as **Crawl, Walk and Run**. A general guidance for the buckets is:
   - **Crawl** means: the team is using a structured process 
   - **Walk** means: the teams is familiar with modern software engineering practices and applies the practices in their daily work
   - **Run** means: the team is on top of their game and in addition they are also sharing their knowledge and experience and help the whole organization to improve
 - If even the **Crawl** bucket description doesn't reflect the team's way of working, a **-** is used.
-- Comments can be added by the coach for each topic if the team feels the necessity
+- Comments can be added by the coach for each topic if the team feels the necessity.
 
 It is helpful if two coaches work with the team on the self-assessment as it is hard to facilitate the process and take notes at the same time! 
 Usually it is good, if 2 members from the product team participate in the self-assessment, one to cover DevOps and CI/CD and one for Testing and Test Automation. This is due to the fact that typically the detailed knowledge is spread among the team members and there is no single "expert".
@@ -49,11 +49,11 @@ Usually it is good, if 2 members from the product team participate in the self-a
 The duration of the self-assessment depends on multiple variables:
 - How many team members are involved in the assessment?
 - How much time is used for discussion?
-- How good is the team's joint understanding of the way of working?
+- How good is the team's joint understanding of their way of working?
 - How familiar and experienced are the coaches with the process and the content of the questionnaire?
 
 All in, we typically plan for 2 hours for the first assessment. 
-For a bigger team this is certainly on the lower end and does not give a lot of time for discussion. 
+For a bigger team, this is certainly on the lower end and does not give a lot of time for discussion. 
 Subsequent assessments are typically faster, it is also possible to skip discussions about specific topics in that case.
 
 # What to do after the self-assessment?
@@ -83,4 +83,4 @@ Subsequent assessments are typically faster, it is also possible to skip discuss
 - Every single line in the sheet could be discussed for hours. This is not rocket science and high precision is not the goal and also not a benefit.
 - The self-assessment must be done with engineers. Don't include Product Owners or Engineering Managers during the actual assessment. You want to have the engineers talking, not the POs (or Scrum Masters) (or managers). POs tend to talk a lot :-D.
 - If agile coaches (for the setup of the agile process, meaning Scrum) are working with the team, get in touch with them. There is always a lot of overlap!
-- Many engineering problems are related to architecture, organization, team structure and understanding of agility. Don't even try to fix everything!  
+- Many engineering problems are related to architecture, organization, team structure and understanding of agility. Some of these areas are not even in scope of the AEMM, whereas the negative side-effects might be very well visible in the AEMM results. Don't even try to fix everything!  
