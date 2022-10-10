@@ -1,7 +1,7 @@
 # The RBI Agile Engineering Maturity Model (AEMM)
 Many agile (Scrum) product teams have a good understanding about their problem space. 
 - However (our) experience shows, that many of them still need ideas where to start improvements related to engineering practices. 
-- (Our) Experience also shows, that even though deficits are often mentioned or expressed by the teams, in many cases there is no reaction by stakeholders like POs or management. So it is important to make the deficits transparent and to creater a broader understanding.
+- (Our) Experience also shows, that even though deficits are often mentioned or expressed by the teams, in many cases there is no reaction by stakeholders like POs or management. So it is important to make the deficits transparent and to create a broader understanding.
 
 ## Summary and Background
 For this purpose, the team of Agile Engineering Coaches here at Raiffeisen Bank International (RBI) Head Office has created the Agile Engineering Maturity Review.
