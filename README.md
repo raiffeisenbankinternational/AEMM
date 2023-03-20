@@ -84,3 +84,6 @@ Subsequent assessments are typically faster, it is also possible to skip discuss
 - The self-assessment must be done with engineers. Don't include Product Owners or Engineering Managers during the actual assessment. You want to have the engineers talking, not the POs (or Scrum Masters) (or managers). POs tend to talk a lot :-D.
 - If agile coaches (for the setup of the agile process, meaning Scrum) are working with the team, get in touch with them. There is always a lot of overlap!
 - Many engineering problems are related to architecture, organization, team structure and understanding of agility. Some of these areas are not even in scope of the AEMM, whereas the negative side-effects might be very well visible in the AEMM results. Don't even try to fix everything!  
+
+# Version history
+20-03-2023 AEMM template Excel sheet updated to improve simplicity and clarity based on our experiences. Some redundancies have been removed.
