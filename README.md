@@ -87,3 +87,5 @@ Subsequent assessments are typically faster, it is also possible to skip discuss
 
 # Version history
 20-03-2023 AEMM template Excel sheet updated to improve simplicity and clarity based on our experiences. Some redundancies have been removed.
+
+14-06-2024 Another update to the AEMM Excel sheet with some cleanups and the addition of metric collection (DORA metrics) as a capability
